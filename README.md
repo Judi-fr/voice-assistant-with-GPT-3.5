@@ -2,6 +2,7 @@
 <img width="735" height="76" alt="image" src="https://github.com/user-attachments/assets/cd2d010a-781c-456e-96ec-4aa901a62226" />
 
 https://platform.openai.com/api-keys
+
 https://elevenlabs.io/app/developers/api-keys
 <img width="732" height="552" alt="image" src="https://github.com/user-attachments/assets/1dbc62f1-03ad-42df-bde6-882529a6f929" />
 https://www.gyan.dev/ffmpeg/builds/#about-these-builds
